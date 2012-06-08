@@ -1,0 +1,4 @@
+server-client monitoring program
+server gets info from many sources, maybe processes it, then immediately sends to all clients
+clients display data however they want
+
